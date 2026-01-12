@@ -1,8 +1,5 @@
 # Planet Database
 The repository contains a simple data base on the planets in our solor system. It is a practice repository for learning Git workflows.
 ## Content 
-- The text file describes the inner planet
-- The outer folder is set up to add future planet files
-- The CVS file contains the basic planet statistics
-- The files are organized into folders in a logical way, making it easy to add more planets in the future
-Fun Fact: Venus and Mercury are the two planets that orbit closest to the sun 
+- This repository is organized using a clear folder structure to keep planet information easy to manage and expand. Inner planet descriptions are stored in the inner-planets folder, outer planet descriptions are stored in the outer-planets folder, and numerical planet data is stored in the data folder as a CSV file. Separating files by purpose makes the project easier to understand and allows new planets or data to be added without reorganizing existing files.
+- The planets in our solar system can be grouped into inner and outer planets based on their location and composition. The inner planets are smaller, rocky planets located closer to the Sun, such as Mercury and Venus. The outer planets are much larger and are primarily made of gas or ice, such as Jupiter and Saturn. In this project, each planet is represented by a text file containing basic facts, while shared characteristics like distance from the Sun, size, and number of moons are stored in a CSV file for easy comparison.
